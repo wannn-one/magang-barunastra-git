@@ -1,3 +1,0 @@
-progress epr barunastra
-- bersih2 sekre
-- push kodingan irc 2023
